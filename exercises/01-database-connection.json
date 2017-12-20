@@ -1,0 +1,16 @@
+{
+  "development": {
+    "host": "localhost",
+    "database": "development3",
+    "port": 5432,
+    "user": "jez",
+    "password": "jez"
+  },
+  "test": {
+    "host": "localhost",
+    "database": "development3",
+    "port": 5432,
+    "user": "jez",
+    "password": "jez"
+  }
+}
